@@ -22,3 +22,7 @@ Alura
 - [HTML5 E CSS3 PARTE 1: CRIE UMA PÁGINA DA WEB](https://cursos.alura.com.br/certificate/e1b32ebd-7404-4bd5-827a-a4537c324dab)
 - [HTML5 E CSS3 PARTE 2: POSICIONAMENTO, LISTAS E NAVEGAÇÃO](https://cursos.alura.com.br/certificate/a5155bce-3685-46f1-98d3-b894b7f3f503)
 - [HTML5 E CSS3 PARTE 3: TRABALHANDO COM FORMULÁRIOS E TABELAS](https://cursos.alura.com.br/certificate/13e5573d-00ed-4411-9883-1cb29085f5d5)
+<br></br>
+
+XP Educação 
+- [Mini Camp Data e Dev](https://www.linkedin.com/feed/update/urn:li:activity:6970058314143399936/)
