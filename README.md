@@ -29,6 +29,7 @@ Alura
 - [HTML5 E CSS3 PARTE 2: POSICIONAMENTO, LISTAS E NAVEGAÇÃO](https://cursos.alura.com.br/certificate/a5155bce-3685-46f1-98d3-b894b7f3f503)
 - [HTML5 E CSS3 PARTE 3: TRABALHANDO COM FORMULÁRIOS E TABELAS](https://cursos.alura.com.br/certificate/13e5573d-00ed-4411-9883-1cb29085f5d5)
 - [HTML5 E CSS3 PARTE 4: AVANÇANDO NO CSS](https://cursos.alura.com.br/certificate/8dbc75de-f9a4-4aeb-a3ff-d81ad066d21c)
+- HTML E CSS: PRATICANDO HTML/CSS] (https://cursos.alura.com.br/certificate/b03ebfca-09fc-417d-a441-b57b380ca506)
 <br></br>
 
 XP Educação 
